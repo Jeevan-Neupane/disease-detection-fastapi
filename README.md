@@ -86,7 +86,7 @@ Place your trained model file (e.g., `best_zoomed_pad.pth`) in `data/external/`.
 ### Run the API locally
 
 ```sh
-uvicorn app.app:app --reload
+python .\app\app.py     
 ```
 
 ### API Endpoints
