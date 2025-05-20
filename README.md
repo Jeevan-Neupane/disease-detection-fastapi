@@ -45,7 +45,6 @@ It is designed for easy deployment (Docker-ready), robust testing, and modern Py
 ├── .env
 ├── Makefile
 ├── README.md
-└── ...
 ```
 
 ---
