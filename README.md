@@ -119,6 +119,9 @@ Run all tests:
 pytest
 ```
 
+```sh
+pytest tests/test_app.py
+```
 ---
 
 ## Linting & Formatting
